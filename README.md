@@ -87,12 +87,12 @@ Expansion to multi-satellite fleet intelligence.
 **Research Authors:**
 
 
-**S. V. Badrinath
+S. V. Badrinath
 
 A. Sujitha
 
 K. Devendra Kumar
 
-S. Sirajuddeen**
+S. Sirajuddeen00
 
 Department of Artificial Intelligence & Data Science, Miracle Educational Society Group of Institutions.
