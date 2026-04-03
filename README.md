@@ -63,7 +63,7 @@ Data & Visualization: Pandas, NumPy, Streamlit, Plotly, Matplotlib
 Installation and Usage
 Setup
 Clone the repository:
-git clone https://github.com/yourusername/ORBITRON.git
+git clone https://github.com/srirangambadrinath/ORBITRON
 
 Enter the directory:
 cd ORBITRON
@@ -84,7 +84,9 @@ Application of Reinforcement Learning for mission path optimization.
 
 Expansion to multi-satellite fleet intelligence.
 
-Research Authors
+Research Authors:
+
+
 S. V. Badrinath
 
 A. Sujitha
