@@ -1,0 +1,13 @@
+Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission,mission_success,failure_label,rocket_active,launch_year,launch_month,company_encoded,location_encoded,rocket_encoded,cost_usd
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020-08-07,Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50.0,Success,1,0,1,2020,8,5,3,3,50.0
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020-08-06,Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.15,Success,1,0,1,2020,8,0,10,6,29.15
+SpaceX,"Pad A, Boca Chica, Texas, USA",2020-08-04,Starship Prototype | 150 Meter Hop,StatusActive,,Success,1,0,1,2020,8,5,5,11,50.0
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",2020-07-30,Proton-M/Briz-M | Ekspress-80 & Ekspress-103,StatusActive,65.0,Success,1,0,1,2020,7,4,8,9,65.0
+ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2020-07-30,Atlas V 541 | Perseverance,StatusActive,145.0,Success,1,0,1,2020,7,6,7,0,145.0
+CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020-07-25,"Long March 4B | Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1",StatusActive,64.68,Success,1,0,1,2020,7,0,4,7,64.68
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2020-07-23,Soyuz 2.1a | Progress MS-15,StatusActive,48.5,Success,1,0,1,2020,7,4,9,10,48.5
+CASC,"LC-101, Wenchang Satellite Launch Center, China",2020-07-23,Long March 5 | Tianwen-1,StatusActive,,Success,1,0,1,2020,7,0,1,8,50.0
+SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020-07-20,Falcon 9 Block 5 | ANASIS-II,StatusActive,50.0,Success,1,0,1,2020,7,5,6,2,50.0
+JAXA,"LA-Y1, Tanegashima Space Center, Japan",2020-07-19,H-IIA 202 | Hope Mars Mission,StatusActive,90.0,Success,1,0,1,2020,7,2,0,4,90.0
+Rocket Lab,"LC-1A, Mahia Peninsula, New Zealand",2020-07-04,Electron | Pics Or It Didnt Happen,StatusActive,7.5,Failure,0,1,1,2020,7,3,2,1,7.5
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China",2020-07-10,"Kuaizhou 11 | Jilin-1 02E, CentiSpace-1 S2",StatusActive,28.3,Failure,0,1,1,2020,7,1,11,5,28.3
